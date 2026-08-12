@@ -24,3 +24,4 @@ Notes and usage details for OnePagent.
 - link the usage section
 - clarify the setup steps
 - clarify the setup steps
+- fix a small wording issue
