@@ -11,3 +11,4 @@ build/
 *.tmp
 coverage/
 tmp/
+.vscode/
